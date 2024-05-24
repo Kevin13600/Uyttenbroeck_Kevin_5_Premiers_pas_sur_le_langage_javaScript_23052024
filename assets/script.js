@@ -50,4 +50,4 @@ function updateSlide() {
 	dots[i].classList.add('dot_selected')
 }
 
-
+updateSlide();
